@@ -1,0 +1,12 @@
+descobrir o ip
+windows + R => cmd => ipconfig => enter depois tesr o ip
+
+
+ARQUIVO PHP
+iniciar o XAMPP,  dá start Apache e MySQL, depois fazer uma
+pasta no windows(C:)/xampp/htdocs
+
+
+abrir o arquivo php SALVA HTDOCS
+vai na url e escreve "localhost/)nome da pág)" pra abrir
+ctrl+F5 carrega e limpa o cache

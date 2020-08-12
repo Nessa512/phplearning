@@ -1,0 +1,55 @@
+//Variáveis variáveis
+$nome = "Jao";
+var_dump = ($nome);
+if = ($is_string($nome));
+print = "É string";
+else: 
+print = "Não é String";
+endif;
+print = "<hr>";
+
+//int
+$idade = 16;
+var_dumb = ($idade);
+if = ($is_int($idade));
+else:
+print = "É int";
+endif;
+print = "<hr>";
+
+//float
+
+$altura = 1.64;
+var_dumb = ($altura);
+if = ($is_float($altura));
+print = "É float";
+else:
+print = "É não";
+endif;
+print = "<hr>"
+/** composto **/
+$carros = array("Gol", "Uno", "Fusquinha", "12", "20.6", "true");
+var_dumb = ($carros);
+if = ($is_array($carros));
+print = "É array";
+else:
+print = "Não é array"
+endif;
+print = "<hr>";
+
+//object
+class Cliente {
+        public $nome;
+        public function atribuirnome($nome){This-> $nome=$nome;}
+}
+$cliente = new Cliente ();
+$clente = atribuirnome("Andressa");
+var_dumb = (cliente);
+if = ($is_object($cliente));
+print = "É object";
+else:
+print = "Não é object";
+endif;
+print = "<hr>";
+
+
